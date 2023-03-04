@@ -1,6 +1,6 @@
 # cub3d
 
-The goal of is to make *something* using raycasting (like [Wolfenstein 3D](https://fr.wikipedia.org/wiki/Wolfenstein_3D)).
+The goal is to make *something* using raycasting (like [Wolfenstein 3D](https://fr.wikipedia.org/wiki/Wolfenstein_3D)).
 
 <img align="center" src="screen.png" alt="Screenshot of the game" />
 
