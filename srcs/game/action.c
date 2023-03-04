@@ -53,6 +53,7 @@ static void	rotate(t_game *game, int key, double speed)
 
 void	rotate_for_mouse(t_game *game, t_icoord *mouse)
 {
+	mlx_mouse_hide();
 	if (mouse->x > game->mouse.x)
 		rotate(game, KEY_RIGHT, SMALL);
 	else
