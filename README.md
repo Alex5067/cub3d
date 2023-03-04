@@ -11,3 +11,16 @@ The goal is to make *something* using raycasting (like [Wolfenstein 3D](https://
 * Minimap
 * Wall collisions
 
+### Building and running the project
+
+1. Download/Clone this repo
+
+        git clone https://github.com/Alex5067/cub3d
+2. `cd` into the root directory and run `make`
+
+        cd cub3d
+        make
+
+3.  run `./cub_3D maps/map.cub` from the directory cub3d.
+   
+
