@@ -4,7 +4,7 @@ The goal of is to make *something* using raycasting (like [Wolfenstein 3D](https
 
 <img align="center" src="screen.png" alt="Screenshot of the game" />
 
-* WASD to move, Rotate the point of view with the mouse or Left/Right directional keys
+* WASD to move, rotate the point of view with the mouse or Left/Right directional keys
 * ESC to quit
 * Textures or colors for each sides (North, South, West, East) and Sky/Floor
 * 3 different sprites
